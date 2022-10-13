@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v1.0.1 (2022-10-13)
+### Fix
+* **ci:** Adding same commit ([`b66d43b`](https://github.com/pandalearnstocode/py-pkgs-tutorial/commit/b66d43b898f0784681b746d09f5e80f6a34fad36))
+
 ## v1.0.0 (2022-10-13)
 ### Feature
 * **mod_plotting:** Move code from plotting module                  to pycounts module ([`28010f3`](https://github.com/pandalearnstocode/py-pkgs-tutorial/commit/28010f3e131ed3f647d892f72e748731fba80b35))
