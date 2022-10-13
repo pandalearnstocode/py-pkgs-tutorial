@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.0 (2022-10-13)
+### Feature
+* **package:** Add example data and new module to                  package ([`3369983`](https://github.com/pandalearnstocode/py-pkgs-tutorial/commit/3369983eb81ab0c7164add0c53591e4f00299e45))
+
 ## v0.0.3 (2022-10-13)
 ### Fix
 * **mod_plotting:** Fix confusing error message in                  plot_words ([`5d8d1fa`](https://github.com/pandalearnstocode/py-pkgs-tutorial/commit/5d8d1fa15cb9a6438abfff1892054bfd1dafaadb))
