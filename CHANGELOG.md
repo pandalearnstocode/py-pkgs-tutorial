@@ -2,6 +2,13 @@
 
 <!--next-version-placeholder-->
 
+## v2.0.0 (2022-10-13)
+### Feature
+* **ci:** This is cz in action ([`0231813`](https://github.com/pandalearnstocode/py-pkgs-tutorial/commit/0231813b05d4bfba184eaea5245b4723e5e3c0d7))
+
+### Breaking
+* testing breaking changes with cz  ([`0231813`](https://github.com/pandalearnstocode/py-pkgs-tutorial/commit/0231813b05d4bfba184eaea5245b4723e5e3c0d7))
+
 ## v1.0.1 (2022-10-13)
 ### Fix
 * **ci:** Adding same commit ([`b66d43b`](https://github.com/pandalearnstocode/py-pkgs-tutorial/commit/b66d43b898f0784681b746d09f5e80f6a34fad36))
