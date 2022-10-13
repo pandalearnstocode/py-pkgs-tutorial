@@ -2,6 +2,13 @@
 
 <!--next-version-placeholder-->
 
+## v1.0.0 (2022-10-13)
+### Feature
+* **mod_plotting:** Move code from plotting module                  to pycounts module ([`28010f3`](https://github.com/pandalearnstocode/py-pkgs-tutorial/commit/28010f3e131ed3f647d892f72e748731fba80b35))
+
+### Breaking
+* plotting module wont exist after this release.  ([`28010f3`](https://github.com/pandalearnstocode/py-pkgs-tutorial/commit/28010f3e131ed3f647d892f72e748731fba80b35))
+
 ## v0.1.0 (2022-10-13)
 ### Feature
 * **package:** Add example data and new module to                  package ([`3369983`](https://github.com/pandalearnstocode/py-pkgs-tutorial/commit/3369983eb81ab0c7164add0c53591e4f00299e45))
